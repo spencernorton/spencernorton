@@ -18,7 +18,7 @@ machine.
 | Product | What it is | Install | Licence |
 |---|---|---|---|
 | **[Helios](https://github.com/spencernorton/helios)** | The desktop that sees everything your coding agents do. A native GTK4/libadwaita workbench for Claude Code, OpenAI Codex and OpenRouter models on Ubuntu. | APT (Ubuntu 26.04) · source | [MIT](https://github.com/spencernorton/helios/blob/main/LICENSE) |
-| **[BitAgent](https://github.com/spencernorton/bitagent)** | A self-hosted BitTorrent DHT crawler and indexer built for the \*arr stack. Evidence-driven classification, curation and opt-in LLM stages, with the operator console and public library in the same image. Descended from bitmagnet. | Docker Compose · source | [MIT](https://github.com/spencernorton/bitagent/blob/main/LICENSE) |
+| **[DH-Waypoint](https://github.com/spencernorton/DH-Waypoint)** | A self-hosted BitTorrent DHT crawler and indexer built for the \*arr stack. Evidence-driven classification, curation, and optional processor plugins over Torznab, GraphQL, and REST APIs. Descended from bitmagnet. | Docker Compose · source | [MIT](https://github.com/spencernorton/DH-Waypoint/blob/main/LICENSE) |
 | **[XNote](https://github.com/spencernorton/xnote)** | Modern GTK4 sticky notes for GNOME. Descended from Xpad, with a colour picker, layout presets and Wayland-safe placement. | from source | [GPL-3.0-or-later](https://github.com/spencernorton/xnote/blob/main/COPYING) |
 | **[XNote Placement](https://github.com/spencernorton/xnote-placement)** | Puts every XNote sticky note back where you left it. A GNOME Shell extension that restores each note's position, monitor and workspace on Wayland, where the app cannot do it itself. | APT (Ubuntu 26.04) · source | [GPL-3.0-or-later](https://github.com/spencernorton/xnote-placement/blob/main/LICENSE) |
 | **[SnipSnap](https://github.com/spencernorton/snipsnap)** | Screenshot any region of any monitor on GNOME Wayland, with no permission dialog. A Qt 6 capture-and-annotate tool whose GNOME Shell extension draws the selection inside the compositor. Descended from Flameshot. | APT (Ubuntu 26.04) · source | [GPL-3.0-or-later](https://github.com/spencernorton/snipsnap/blob/main/LICENSE) |
@@ -28,7 +28,7 @@ machine.
 | **[Road Track](https://github.com/spencernorton/roadtrack)** | What every car in the garage really costs, on top of LubeLogger. A running-cost dashboard, a finance tab and printable reports for the self-hosted LubeLogger vehicle tracker, added over its published image without forking it. | Docker Compose · source | [MIT](https://github.com/spencernorton/roadtrack/blob/main/LICENSE) |
 
 Every README's `Install` section is the install page for that product.
-Helios installs from an APT repository on Ubuntu 26.04 ([how](https://github.com/spencernorton/helios#install)); BitAgent and Conductor ship as Docker Compose files; the desktop tools build from source with the
+Helios installs from an APT repository on Ubuntu 26.04 ([how](https://github.com/spencernorton/helios#install)); DH-Waypoint and Conductor ship as Docker Compose files; the desktop tools build from source with the
 commands CI runs; the extension installs from the same APT repository into GNOME Shell;
 NorviOS installs from source with two scripts, one of them per-user, and removes the same way;
 Indigo is a zip whose files you copy onto the GameCube's SD card;
@@ -45,7 +45,7 @@ Road Track replaces LubeLogger's image and keeps its data.
 - **No e-mail.** Bugs and ideas go to each repository's issues and
   Discussions; security reports go through GitHub private vulnerability
   reporting. That is deliberate.
-- **Forks stay honest.** BitAgent and XNote keep their upstream licences,
+- **Forks stay honest.** DH-Waypoint and XNote keep their upstream licences,
   notices and authors; each README says exactly what is upstream's and what
   is new.
 
@@ -60,7 +60,7 @@ The whole suite, with links to every product, lives at
 
 <p align="center">
   <a href="https://github.com/spencernorton/helios">Helios</a> ·
-  <a href="https://github.com/spencernorton/bitagent">BitAgent</a> ·
+  <a href="https://github.com/spencernorton/DH-Waypoint">DH-Waypoint</a> ·
   <a href="https://github.com/spencernorton/xnote">XNote</a> ·
   <a href="https://github.com/spencernorton/xnote-placement">XNote Placement</a> ·
   <a href="https://github.com/spencernorton/snipsnap">SnipSnap</a> ·
