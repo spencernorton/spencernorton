@@ -61,6 +61,7 @@ The whole suite, with links to every product, lives at
 <p align="center">
   <a href="https://github.com/spencernorton/helios">Helios</a> ·
   <a href="https://github.com/spencernorton/DH-Waypoint">DH-Waypoint</a> ·
+  <a href="https://github.com/spencernorton/armiger">Armiger</a> ·
   <a href="https://github.com/spencernorton/xnote">XNote</a> ·
   <a href="https://github.com/spencernorton/xnote-placement">XNote Placement</a> ·
   <a href="https://github.com/spencernorton/snipsnap">SnipSnap</a> ·
