@@ -27,6 +27,8 @@ Each product documents its capture sources and offers still images.
 | **[Helios](https://github.com/spencernorton/helios)** | A native Linux coding desktop for Claude Code, Codex, Gemini, Muse, Kimi and OpenRouter, with conversations, approvals, browser previews and Git review. | APT (Ubuntu 26.04) · source | [MIT](https://github.com/spencernorton/helios/blob/main/LICENSE) |
 | **[DH-Waypoint](https://github.com/spencernorton/DH-Waypoint)** | A self-hosted BitTorrent DHT crawler and indexer for the \*arr stack. Descended from bitmagnet, it learns from what your \*arrs grab and serves its catalogue over Torznab, GraphQL and REST. | Docker Compose · source | [MIT](https://github.com/spencernorton/DH-Waypoint/blob/main/LICENSE) |
 | **[Armiger](https://github.com/spencernorton/armiger)** | Local classification of torrent and media metadata, with ONNX inference and optional title matching and enrichment. | Docker Compose · Python | [Apache-2.0](https://github.com/spencernorton/armiger/blob/main/LICENSE) |
+| **[Arrmes](https://github.com/spencernorton/arrmes)** | A bounded local tool-calling router and execution verifier for self-hosted media and download stacks. | Python · MLX · GGUF | [Apache-2.0](https://github.com/spencernorton/arrmes/blob/main/LICENSE) |
+| **[Endexis](https://github.com/spencernorton/endexis)** | Tenant-agnostic clinical reporting SQL & CCL compiler for Oracle Health Discern Analytics 2.0 (DA2), HealtheIntent EDW, and PowerInsight, paired with a hybrid neuro-symbolic Qwen3-0.6B RPO-DPO assistant. | Python · Hugging Face | [Apache-2.0](https://github.com/spencernorton/endexis/blob/main/LICENSE) |
 | **[XNote](https://github.com/spencernorton/xnote)** | Modern GTK4 sticky notes for GNOME. Descended from Xpad, with a colour picker, layout presets and Wayland-safe placement. | APT (Ubuntu 26.04) · source | [GPL-3.0-or-later](https://github.com/spencernorton/xnote/blob/main/COPYING) |
 | **[XNote Placement](https://github.com/spencernorton/xnote-placement)** | Puts every XNote sticky note back where you left it. A GNOME Shell extension that restores each note's position, monitor and workspace on Wayland, where the app cannot do it itself. | APT (Ubuntu 26.04) · source | [GPL-3.0-or-later](https://github.com/spencernorton/xnote-placement/blob/main/LICENSE) |
 | **[SnipSnap](https://github.com/spencernorton/snipsnap)** | Screenshot any region of any monitor on GNOME Wayland, with no permission dialog. A Qt 6 capture-and-annotate tool whose GNOME Shell extension draws the selection inside the compositor. Descended from Flameshot. | APT (Ubuntu 26.04) · source | [GPL-3.0-or-later](https://github.com/spencernorton/snipsnap/blob/main/LICENSE) |
@@ -73,6 +75,8 @@ The whole suite, with links to every product, lives at
   <a href="https://github.com/spencernorton/helios">Helios</a> ·
   <a href="https://github.com/spencernorton/DH-Waypoint">DH-Waypoint</a> ·
   <a href="https://github.com/spencernorton/armiger">Armiger</a> ·
+  <a href="https://github.com/spencernorton/arrmes">Arrmes</a> ·
+  <a href="https://github.com/spencernorton/endexis">Endexis</a> ·
   <a href="https://github.com/spencernorton/xnote">XNote</a> ·
   <a href="https://github.com/spencernorton/xnote-placement">XNote Placement</a> ·
   <a href="https://github.com/spencernorton/snipsnap">SnipSnap</a> ·
