@@ -24,19 +24,19 @@ Each product documents its capture sources and offers still images.
 
 ## The suite
 
-| Product | What it is | Install | Licence |
+| Product | What it is | Get started | Licence |
 |---|---|---|---|
-| **[Helios](https://github.com/spencernorton/helios)** | A native Linux desktop for coding agents, with approvals, browser previews and Git review. | APT (Ubuntu 26.04) · source | [MIT](https://github.com/spencernorton/helios/blob/main/LICENSE) |
+| **[Helios](https://github.com/spencernorton/helios)** | A native Linux desktop for Claude Code, Codex and other coding agents, with approvals, browser previews and Git review. | [Ubuntu 26.04 and source install](https://norvitech.com/helios/install/) | [MIT](https://github.com/spencernorton/helios/blob/main/LICENSE) |
 | **[DH-Waypoint](https://github.com/spencernorton/DH-Waypoint)** | A self-hosted BitTorrent DHT crawler and Torznab indexer for the \*arr stack. | Docker Compose · source | [MIT](https://github.com/spencernorton/DH-Waypoint/blob/main/LICENSE) |
-| **[Armiger](https://github.com/spencernorton/armiger)** | Local ONNX classification and enrichment for torrent and media metadata. | Docker Compose · Python | [Apache-2.0](https://github.com/spencernorton/armiger/blob/main/LICENSE) |
-| **[Arrmes](https://github.com/spencernorton/arrmes)** | A local model that routes and verifies tool calls for self-hosted media stacks. | Python · MLX · GGUF | [Apache-2.0](https://github.com/spencernorton/arrmes/blob/main/LICENSE) |
-| **[Endexis](https://github.com/spencernorton/endexis)** | A clinical reporting SQL and CCL compiler with a local assistant for Oracle Health. | Python · Hugging Face | [Apache-2.0](https://github.com/spencernorton/endexis/blob/main/LICENSE) |
+| **[Armiger](https://github.com/spencernorton/armiger)** | Local ONNX classification and enrichment for torrent and media metadata, with Bitmagnet and Rats Search integrations. | [Armiger and Armiger Ultra model options](https://norvitech.com/armiger/) | [Apache-2.0](https://github.com/spencernorton/armiger/blob/main/LICENSE) |
+| **[Arrmes](https://github.com/spencernorton/arrmes)** | Local tool calling and verification for Sonarr, Radarr, qBittorrent and other self-hosted media services. | [Supported services and local setup](https://norvitech.com/arrmes/) | [MIT](https://github.com/spencernorton/arrmes/blob/main/LICENSE) |
+| **[Endexis](https://github.com/spencernorton/endexis)** | A SQL and CCL compiler with a local assistant for reporting in Oracle Health (Cerner) Millennium. | [Compiler examples and local model](https://norvitech.com/endexis/) | [MIT](https://github.com/spencernorton/endexis/blob/main/LICENSE) |
 | **[XNote](https://github.com/spencernorton/xnote)** | Native GTK4 sticky notes for GNOME, with encrypted backups. | APT (Ubuntu 26.04) · source | [GPL-3.0-or-later](https://github.com/spencernorton/xnote/blob/main/COPYING) |
 | **[XNote Placement](https://github.com/spencernorton/xnote-placement)** | A GNOME Shell extension that restores XNote’s positions, monitors and workspaces on Wayland. | APT (Ubuntu 26.04) · source | [GPL-3.0-or-later](https://github.com/spencernorton/xnote-placement/blob/main/LICENSE) |
 | **[SnipSnap](https://github.com/spencernorton/snipsnap)** | A screenshot and annotation tool for GNOME Wayland. | APT (Ubuntu 26.04) · source | [GPL-3.0-or-later](https://github.com/spencernorton/snipsnap/blob/main/LICENSE) |
 | **[Conductor](https://github.com/spencernorton/conductor)** | A self-hosted HDHomeRun emulator that brings IPTV to Plex Live TV. | Docker Compose · source | [MIT](https://github.com/spencernorton/conductor/blob/main/LICENSE) |
 | **[NorviOS](https://github.com/spencernorton/norvi-os)** | Reversible Ubuntu and GNOME customizations, from the boot splash to the desktop. | APT (Ubuntu 26.04) · source | [GPL-3.0-or-later](https://github.com/spencernorton/norvi-os/blob/main/LICENSE) |
-| **[Indigo](https://github.com/spencernorton/indigo)** | A fork of Swiss with a visual game library for the Nintendo GameCube. | SD card zip | [GPL-2.0-or-later](https://github.com/spencernorton/indigo/blob/main/LICENSE) |
+| **[Indigo](https://github.com/spencernorton/indigo)** | A Nintendo GameCube homebrew launcher based on Swiss, with a box art library. | [SD card setup by boot device](https://norvitech.com/indigo/guide/install/) | [GPL-2.0-or-later](https://github.com/spencernorton/indigo/blob/main/LICENSE) |
 | **[Road Track](https://github.com/spencernorton/roadtrack)** | Running costs, vehicle finance and printable reports for LubeLogger. | Docker Compose · source | [MIT](https://github.com/spencernorton/roadtrack/blob/main/LICENSE) |
 
 Each product’s README is its installation guide. Release packages, source builds,
